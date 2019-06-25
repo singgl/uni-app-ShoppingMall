@@ -1,0 +1,2 @@
+<import src="./resetpasswd.vue.wxml" />
+    <template is="6ccbe8de" data="{{ ...$root['0'], $root }}"/>
